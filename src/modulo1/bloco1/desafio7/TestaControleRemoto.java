@@ -1,4 +1,4 @@
-package modulo1.bloco1;
+package modulo1.bloco1.desafio7;
 
 public class TestaControleRemoto {
 

@@ -1,4 +1,4 @@
-package modulo1.bloco1;
+package modulo1.bloco1.praticando21e22e23;
 
 public class Praticando22 {
 	

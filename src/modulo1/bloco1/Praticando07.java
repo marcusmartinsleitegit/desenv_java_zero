@@ -2,7 +2,7 @@ package modulo1.bloco1;
 
 import java.util.Scanner;
 
-public class Praticando7 {
+public class Praticando07 {
 	
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package modulo1.bloco1;
 
-public class Praticando6 {
+public class Praticando06 {
 	
 	public static void main(String[] args) {
 		
